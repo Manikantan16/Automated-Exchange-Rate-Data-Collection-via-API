@@ -21,7 +21,7 @@
 -  Set a Schedule → Run daily at 10 AM.
 -  Send the data to Google Sheets (using the same Gmail account linked to Make.com) and map the headers as follows: Result, Base Code, Last Updation Date,
    Next Updation Date, Base Currency, Value, AED, SAR, OMR, INR, MYR, SGD.)
--  Execute and validate that the latest rates are logged automatically.
-
+- Run the workflow and verify that the latest rates are automatically added as a new row.
+  
 ### ✅ Outcome: 
 Every morning at 10 AM, fresh exchange rates are recorded in Google Sheets → Power BI automatically picks up the data → dashboards remain accurate and up to date.
