@@ -1,4 +1,4 @@
-# 🤖 💱 🔗 Automated Exchange Rate Data-Collection via API
+## 🤖 💱 🔗 Automated Exchange Rate Data-Collection via API
   Objective of this project is to get the exchange rates on a daily basis. Rather than checking exchange rates manually every day, I have set up an automation process to pull the latest USD rates through an API and log them directly into Google Sheets.
 
 ---
