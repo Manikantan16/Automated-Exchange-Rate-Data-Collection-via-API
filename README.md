@@ -24,4 +24,8 @@
 - Run the workflow and verify that the latest rates are automatically added as a new row.
   
 ### ✅ Outcome: 
-Every morning at 10 AM, fresh exchange rates are recorded in Google Sheets → Power BI automatically picks up the data → dashboards remain accurate and up to date.
+- An Automated job runs every morning at 10 AM, fetching exchange rate data from the API and recording it in the Google Sheets
+- Power BI automatically picks up the data → dashboards remain accurate and up to date.
+
+<img width="1797" height="803" alt="image" src="https://github.com/user-attachments/assets/703d5cd5-9084-4368-b41f-9841889aee88" />
+
